@@ -16,3 +16,5 @@ Action is a second parameter, Action is the way that we comunicate with Reducer
 - `dispatch()` sends an action to reducer function. Action has to be an object
 - `getState()` get current state
 - `subscribe()` allows us to listen for changes in our store
+
+##
